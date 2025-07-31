@@ -119,8 +119,13 @@ import contractABI from "./abi.json";
 📸 Screenshots
     Wallet Connection               	Post Tweet	          Like             Tweet
 
+<img width="1097" height="506" alt="image-1" src="https://github.com/user-attachments/assets/560a3293-bff2-41fb-9650-a01b515edaf1" />
 
+<img width="1324" height="602" alt="image-2" src="https://github.com/user-attachments/assets/849f0ed9-4b23-4b4b-af16-c5b7a6f07ced" />
 
+<img width="1368" height="702" alt="image-3" src="https://github.com/user-attachments/assets/4293f420-1d0d-4140-99b1-ad9801fba72b" />
+
+<img width="1306" height="711" alt="image-4" src="https://github.com/user-attachments/assets/51a66846-b013-46a5-85d9-aad9a254258e" />
 
 📄 License
 This project is open-sourced under the MIT License.
